@@ -18,6 +18,9 @@ defaults.pcm.card 0 > defaults.pcm.card 1<BR>
 <BR>
 sudo reboot<BR>
 alsamixer<BR>
+<BR>
+mpg123 /home/pi/Music/01.mp3<BR>
+
 
 
 
