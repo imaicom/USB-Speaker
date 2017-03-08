@@ -19,5 +19,5 @@ defaults.pcm.card 0 > defaults.pcm.card 1<BR>
 sudo reboot<BR>
 alsamixer<BR>
 <BR>
-sudo apt-get install mpg123
+sudo apt-get install mpg123<BR>
 mpg123 /home/pi/Music/test.mp3<BR>
