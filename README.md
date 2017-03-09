@@ -23,6 +23,6 @@ sudo apt-get install mpg123<BR>
 mpg123 /home/pi/Music/test.mp3<BR>
 aplay /usr/share/sounds/alsa/*<BR>
  
-/usr/share/scratch/Media/Sounds/ 
-/usr/share/sounds/alsa/ 
-/usr/share/pyshared/pygame/examples/data/
+/usr/share/scratch/Media/Sounds/  
+/usr/share/sounds/alsa/  
+/usr/share/pyshared/pygame/examples/data/ 
