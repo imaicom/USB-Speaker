@@ -21,4 +21,4 @@ alsamixer<BR>
 <BR>
 sudo apt-get install mpg123<BR>
 mpg123 /home/pi/Music/test.mp3<BR>
-aplay /usr/share/sounds/alsa/Noise.wav<BR>
+aplay /usr/share/sounds/alsa/*<BR>
