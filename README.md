@@ -10,7 +10,8 @@ $ lsusb
 $ sudo vi /usr/share/alsa/alsa.conf  
   
 comment out  
-"~/.asoundrc"  >  # "~/.asoundrc"  
+"~/.asoundrc"
+# "~/.asoundrc"  
   
 Modify the two line  
 defaults.ctl.card 0 > defaults.ctl.card 1  
