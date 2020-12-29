@@ -1,8 +1,8 @@
 # USB-Speaker setting
 
 $ sudo raspi-config  
-•(9)Advanced Options  
-•A9 Audio  
+•(7)Advanced Options  
+•A4 Audio  
 •Audio - Auto  
   
 $ lsusb  
